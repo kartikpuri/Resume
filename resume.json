@@ -1,0 +1,176 @@
+{
+    "basics": {
+      "name": "Kartik Puri",
+      "label": "Software Engineer",
+      "picture": "kartik-profile.png",
+      "website": "NA",
+      "email": "kartik.puri@dal.ca",
+      "phone": "902-817-0150",
+      "summary": "TBD.",
+      "location": {
+        "city": "Moncton",
+        "countryCode": "Canada",
+        "region": "Atlantic"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "kartikpuri",
+          "url": "https://www.linkedin.com/in/kartikpuri/"
+        },
+        {
+          "network": "GitHub",
+          "username": "kartikpuri",
+          "url": "https://github.com/kartikpuri"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Akiri",
+        "position": "Software Engineer",
+        "website": "https://akiri.com/",
+        "startDate": "2018-06-05",
+        "summary": "TBD",
+        "highlights": [
+          "TBD1",
+          "TBD2"
+        ]
+      },
+      {
+        "company": "Mobivity",
+        "position": "Big Data Engineering Intern",
+        "website": "https://www.mobivity.com/",
+        "startDate": "2018-01-08",
+        "endDate": "2018-04-27",
+        "summary": "TBD.",
+        "highlights": [
+          "TBD1.",
+          "TBD2."
+        ]
+      },
+      {
+        "company": "Swept",
+        "position": "Web QA Developer",
+        "startDate": "2017-05-31",
+        "endDate": "2017-08-30",
+        "summary": "TBD.",
+        "highlights": [
+          "TBD.",
+          "TBD."
+        ]
+      },
+      {
+        "company": "ST Microelectronics Ltd.",
+        "position": "Intern",
+        "startDate": "2014-05-27",
+        "endDate": "2014-12-21",
+        "summary": "TBD.",
+        "highlights": [
+          "TBD1",
+          "TBD2"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "Scouts Canada",
+      "position": "Beaver Scout Leader",
+      "website": "http://www.scouts.ca/",
+      "startDate": "2014-09-01",
+      "summary": "Lead an energetic group of 5-7 year olds known as the 1st Riverview Beavers"
+    }],
+    "education": [
+      {
+        "institution": "Dalhousie University",
+        "area": "Computer Science",
+        "studyType": "Masters",
+        "startDate": "2017-01-08",
+        "courses": ["TBD"],
+        "endDate": "2018-04-27"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile Methodologies",
+        "level": "",
+        "keywords": [
+          "Kanban",
+          "Scrum"
+        ]
+      },
+      {
+        "name": "Cloud (AWS)",
+        "level": "",
+        "keywords": [
+          "VPC Networking",
+          "ALB/ELB",
+          "EC2",
+          "S3",
+          "Route53",
+          "RDS",
+          "Lambda",
+          "CloudWatch",
+          "Kinesis",
+          "SQS"
+        ]
+      },
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": [
+          "Kotlin",
+          "Java",
+          "Python",
+          "JavaScript",
+          "SQL"
+        ]
+      },
+      {
+        "name": "Web APIs",
+        "level": "",
+        "keywords": [
+          "REST",
+          "JSON",
+          "XML",
+          "HTTP",
+          "Nginx"
+        ]
+      },
+      {
+        "name": "CI/CD",
+        "level": "",
+        "keywords": [
+          "Jenkins",
+          "Gradle",
+          "Terraform"
+        ]
+      },
+      {
+        "name": "Containers",
+        "level": "",
+        "keywords": [
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "name": "Developer Tools",
+        "level": "",
+        "keywords": [
+          "GitHub",
+          "BitBucket",
+          "Trello"
+        ]
+      },
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "keywords": [
+          "Linux",
+          "Windows",
+          "MacOS",
+          "Solaris"
+        ]
+      }
+    ]
+  }
