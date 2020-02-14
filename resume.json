@@ -31,10 +31,13 @@
         "position": "Software Engineer",
         "website": "https://akiri.com/",
         "startDate": "2018-06-05",
-        "summary": "TBD",
+        "summary": "Working as full stack developer and developing a cloud-based platform to facilitate sharing health data within and across organizational boundaries with policy-based access control.",
         "highlights": [
-          "TBD1",
-          "TBD2"
+          "Write new code and maintain existing code in various programming languages such as Kotlin, Java, Python etc.",
+          "Develop REST APIs using Kotlin and Vert.x to manage the cloud-based platform.",
+          "Document application and framework code written in Kotlin, Vert.x and other programming languages.",
+          "Build product user interface using Vue.js and Vuetify to interact with cloud-based platform.",
+          "Write and run automated unit and integration tests in Mockk, Python, Jest and Cypress to ensure theproduct is working properly."
         ]
       },
       {
@@ -72,13 +75,6 @@
         ]
       }
     ],
-    "volunteer": [{
-      "organization": "Scouts Canada",
-      "position": "Beaver Scout Leader",
-      "website": "http://www.scouts.ca/",
-      "startDate": "2014-09-01",
-      "summary": "Lead an energetic group of 5-7 year olds known as the 1st Riverview Beavers"
-    }],
     "education": [
       {
         "institution": "Dalhousie University",
@@ -103,7 +99,6 @@
         "level": "",
         "keywords": [
           "VPC Networking",
-          "ALB/ELB",
           "EC2",
           "S3",
           "Route53",
@@ -132,8 +127,7 @@
           "REST",
           "JSON",
           "XML",
-          "HTTP",
-          "Nginx"
+          "HTTP"
         ]
       },
       {
