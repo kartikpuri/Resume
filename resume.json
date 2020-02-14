@@ -3,14 +3,13 @@
       "name": "Kartik Puri",
       "label": "Software Engineer",
       "picture": "kartik-profile.png",
-      "website": "NA",
       "email": "kartik.puri@dal.ca",
       "phone": "902-817-0150",
-      "summary": "TBD.",
+      "summary": "I am a programming enthusiast and Oracle Certified Java SE 8 programmer. I enjoy working on projects that are challenging because while working on them I get to learn new concepts and new development techniques.",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
-        "region": "Atlantic"
+        "region": "New Brunswick"
       },
       "profiles": [
         {
@@ -46,21 +45,37 @@
         "website": "https://www.mobivity.com/",
         "startDate": "2018-01-08",
         "endDate": "2018-04-27",
-        "summary": "TBD.",
+        "summary": "",
         "highlights": [
-          "TBD1.",
-          "TBD2."
+          "Worked on XML parser to parse millions of records. Developed PySpark script to run on Amazon EMR cluster to load and save data to and from S3.",
+          "Parsing of XML data stored in files to a columnar format.",
+          "Validation of parsed XML data against Redshift Database for aggregated and one to one results using SQL queries and Pandas."
         ]
       },
       {
         "company": "Swept",
         "position": "Web QA Developer",
+        "website": "https://www.sweptworks.com/",
         "startDate": "2017-05-31",
         "endDate": "2017-08-30",
-        "summary": "TBD.",
+        "summary": "",
         "highlights": [
-          "TBD.",
-          "TBD."
+          "Creating detailed, comprehensive and well-structured test plans and test cases aiming to test the functionality of the product.",
+          "Developed scripts for automated tests to ensure product quality."
+        ]
+      },
+      {
+        "company": "Wipro Limited",
+        "position": "Project Engineer",
+        "startDate": "2015-12-28",
+        "endDate": "2016-12-13",
+        "website": "https://www.wipro.com/",
+        "summary": "",
+        "highlights": [
+          "Wrote Bash scripts for daily tasks.",
+          "Schedule of the jobs with crontab file.",
+          "User administration: includes creating user account, password configuration, maintain and modify user home directory.",
+          "Enhancements of the Android application used for testing multimedia."
         ]
       },
       {
@@ -68,10 +83,13 @@
         "position": "Intern",
         "startDate": "2014-05-27",
         "endDate": "2014-12-21",
-        "summary": "TBD.",
+        "website": "https://www.st.com/content/st_com/en.html",
+        "summary": "",
         "highlights": [
-          "TBD1",
-          "TBD2"
+          "Automation testing of multimedia ST Set Top Boxes.",
+          "Developed Android Media Player application to work with DLNA device.",
+          "Enhancements to the testing framework wrote in PERL.",
+          "Enhancements of the Android application used for testing multimedia."
         ]
       }
     ],
@@ -140,14 +158,6 @@
         ]
       },
       {
-        "name": "Containers",
-        "level": "",
-        "keywords": [
-          "Docker",
-          "Kubernetes"
-        ]
-      },
-      {
         "name": "Developer Tools",
         "level": "",
         "keywords": [
@@ -166,5 +176,20 @@
           "Solaris"
         ]
       }
-    ]
+    ],
+    "awards": [{
+      "title": "First prize in ShiftKey labs hackathon",
+      "awarder": "ShiftKey Labs"
+    }, {
+      "title": "Rank 1 in class of 70 students in undergraduation.",
+      "awarder": "DAV Institute of Engineering & Technology"
+    }, {
+      "title": "First Google Student Ambassador of my institute 2013-14",
+      "awarder": "Google India Pvt. Ltd."
+    }],
+    "interests": [{
+      "name": "Cricket"
+    }, {
+      "name": "Badminton"
+    }]
   }
