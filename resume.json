@@ -5,7 +5,7 @@
       "picture": "kartik-profile.png",
       "email": "kartik.puri@dal.ca",
       "phone": "902-817-0150",
-      "summary": "I am a programming enthusiast and Oracle Certified Java SE 8 programmer. I enjoy working on projects that are challenging because while working on them I get to learn new concepts and new development techniques. \n\n Status - Permanent Resident",
+      "summary": "I am an experienced, full-stack software developer who enjoys taking on challenging projects and learning new things. \n\n Status - Permanent Resident",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
@@ -30,13 +30,13 @@
         "position": "Software Engineer",
         "website": "https://akiri.com/",
         "startDate": "2018-06-05",
-        "summary": "Working as a full stack developer and developing a cloud-based platform to facilitate sharing health data within and across organizational boundaries with policy-based access control.",
+        "summary": "Working as a full stack developer building a cloud-based platform to facilitate sharing health data within and across organizational boundaries with policy-based access control.",
         "highlights": [
-          "Write new code and maintain existing code in various programming languages such as Kotlin, Java, Python etc.",
+          "Write new and maintain existin code in various programming languages including Kotlin, Java and Python.",
           "Develop REST APIs using Kotlin and Vert.x to manage the cloud-based platform.",
-          "Document application and framework code written in Kotlin, Vert.x and other programming languages.",
+          "Document application and framework code.",
           "Build product user interface using Vue.js and Vuetify to interact with cloud-based platform.",
-          "Write and run automated unit and integration tests in Mockk, Python, Jest and Cypress to ensure the product is working properly."
+          "Write and run automated unit and integration tests in Mockk, Python, Jest and Cypress."
         ]
       },
       {
@@ -45,9 +45,9 @@
         "website": "https://www.mobivity.com/",
         "startDate": "2018-01-08",
         "endDate": "2018-04-27",
-        "summary": "Worked on XML parser to parse millions of records in a data pipeline.",
+        "summary": "Worked on an XML parser to parse millions of records in a data pipeline.",
         "highlights": [
-          "Developed PySpark script to run on Amazon EMR cluster to load and save data to and from S3.",
+          "Developed a PySpark script to run on Amazon EMR cluster to load and save data to and from S3.",
           "Parsing of XML data stored in files to a columnar format.",
           "Validation of parsed XML data against Redshift Database for aggregated and one to one results using SQL queries and Pandas."
         ]
@@ -72,13 +72,12 @@
         "website": "https://www.wipro.com/",
         "summary": "Worked as a system administrator in a data center to ensure high availability of sun servers runinng Sun Solaris 10 and Sun Solaris 11.",
         "highlights": [
-          "Wrote Bash scripts for daily tasks.",
-          "Schedule of the jobs with crontab file.",
+          "Authored Bash scripts to perform daily tasks.",
+          "Scheduled jobs with crontab.",
           "Configuration and Administration of Logical Domains, virtual servers running on single hardware instance.",
           "Management of cluster nodes running Oracle 10G and SAP services.",
-          "Debugging of server logs for any hardware or software failure.",
-          "Administration of individual services of cluster nodes to ensure high availability of servers."
-
+          "Debugging server logs for any hardware or software failure.",
+          "Administration of individual services on cluster nodes to ensure high availability of servers."
         ]
       },
       {
@@ -87,12 +86,12 @@
         "startDate": "2014-05-27",
         "endDate": "2014-12-19",
         "website": "https://www.st.com/content/st_com/en.html",
-        "summary": "Worked as an Intern and performed Android Multimedia Testing on Set Top Boxes",
+        "summary": "Worked as an Intern performing Android Multimedia Testing on Set Top Boxes",
         "highlights": [
-          "Automation testing of multimedia ST Set Top Boxes.",
-          "Developed Android Media Player application to work with DLNA device.",
-          "Enhancements to the testing framework wrote in PERL.",
-          "Enhancements of the Android application used for testing multimedia."
+          "Automated testing of multimedia ST Set Top Boxes.",
+          "Developed an Android Media Player application intended to work with DLNA device.",
+          "Enhancements to a Perl-based testing framework.",
+          "Enhancements to an Android application used for testing multimedia."
         ]
       }
     ],
