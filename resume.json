@@ -30,7 +30,7 @@
         "position": "Software Engineer",
         "website": "https://akiri.com/",
         "startDate": "2018-06-05",
-        "summary": "Working as full stack developer and developing a cloud-based platform to facilitate sharing health data within and across organizational boundaries with policy-based access control.",
+        "summary": "Working as a full stack developer and developing a cloud-based platform to facilitate sharing health data within and across organizational boundaries with policy-based access control.",
         "highlights": [
           "Write new code and maintain existing code in various programming languages such as Kotlin, Java, Python etc.",
           "Develop REST APIs using Kotlin and Vert.x to manage the cloud-based platform.",
@@ -70,7 +70,7 @@
         "startDate": "2015-12-28",
         "endDate": "2016-12-13",
         "website": "https://www.wipro.com/",
-        "summary": "Worked as a system administrator to ensure hughe availability of the servers.",
+        "summary": "Worked as a system administrator to ensure high availability of the servers.",
         "highlights": [
           "Wrote Bash scripts for daily tasks.",
           "Schedule of the jobs with crontab file.",
