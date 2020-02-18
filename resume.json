@@ -5,7 +5,7 @@
       "picture": "kartik-profile.png",
       "email": "kartik.puri@dal.ca",
       "phone": "902-817-0150",
-      "summary": "I am a programming enthusiast and Oracle Certified Java SE 8 programmer. I enjoy working on projects that are challenging because while working on them I get to learn new concepts and new development techniques.",
+      "summary": "I am a programming enthusiast and Oracle Certified Java SE 8 programmer. I enjoy working on projects that are challenging because while working on them I get to learn new concepts and new development techniques. \n\n Status - Permanent Resident",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
@@ -36,7 +36,7 @@
           "Develop REST APIs using Kotlin and Vert.x to manage the cloud-based platform.",
           "Document application and framework code written in Kotlin, Vert.x and other programming languages.",
           "Build product user interface using Vue.js and Vuetify to interact with cloud-based platform.",
-          "Write and run automated unit and integration tests in Mockk, Python, Jest and Cypress to ensure theproduct is working properly."
+          "Write and run automated unit and integration tests in Mockk, Python, Jest and Cypress to ensure the product is working properly."
         ]
       },
       {
@@ -45,9 +45,9 @@
         "website": "https://www.mobivity.com/",
         "startDate": "2018-01-08",
         "endDate": "2018-04-27",
-        "summary": "",
+        "summary": "Worked on XML parser to parse millions of records in a data pipeline.",
         "highlights": [
-          "Worked on XML parser to parse millions of records. Developed PySpark script to run on Amazon EMR cluster to load and save data to and from S3.",
+          "Developed PySpark script to run on Amazon EMR cluster to load and save data to and from S3.",
           "Parsing of XML data stored in files to a columnar format.",
           "Validation of parsed XML data against Redshift Database for aggregated and one to one results using SQL queries and Pandas."
         ]
@@ -58,10 +58,10 @@
         "website": "https://www.sweptworks.com/",
         "startDate": "2017-05-31",
         "endDate": "2017-08-30",
-        "summary": "",
+        "summary": "Worked as a Web QA Developer to perform functional testing of the product.",
         "highlights": [
           "Creating detailed, comprehensive and well-structured test plans and test cases aiming to test the functionality of the product.",
-          "Developed scripts for automated tests to ensure product quality."
+          "Developed scripts for automated tests to ensure product quality using Python and Splinter (Selenium)."
         ]
       },
       {
@@ -70,21 +70,24 @@
         "startDate": "2015-12-28",
         "endDate": "2016-12-13",
         "website": "https://www.wipro.com/",
-        "summary": "",
+        "summary": "Worked as a system administrator to ensure hughe availability of the servers.",
         "highlights": [
           "Wrote Bash scripts for daily tasks.",
           "Schedule of the jobs with crontab file.",
-          "User administration: includes creating user account, password configuration, maintain and modify user home directory.",
-          "Enhancements of the Android application used for testing multimedia."
+          "Configuration and Administration of Logical Domains, virtual servers running on single hardware instance.",
+          "Management of cluster nodes running Oracle 10G and SAP services.",
+          "Debugging of server logs for any hardware or software failure.",
+          "Administration of individual services of cluster nodes to ensure high availability of servers."
+
         ]
       },
       {
         "company": "ST Microelectronics Ltd.",
         "position": "Intern",
         "startDate": "2014-05-27",
-        "endDate": "2014-12-21",
+        "endDate": "2014-12-19",
         "website": "https://www.st.com/content/st_com/en.html",
-        "summary": "",
+        "summary": "Worked as an Intern and performed Android Multimedia Testing on Set Top Boxes",
         "highlights": [
           "Automation testing of multimedia ST Set Top Boxes.",
           "Developed Android Media Player application to work with DLNA device.",
@@ -99,11 +102,31 @@
         "area": "Computer Science",
         "studyType": "Masters",
         "startDate": "2017-01-08",
-        "courses": ["TBD"],
         "endDate": "2018-04-27"
+      },
+      {
+        "institution": "DAV Institute of Engineering & Technology",
+        "area": "Information Technology",
+        "studyType": "Bachelors",
+        "startDate": "2011-08-01",
+        "endDate": "2015-06-15"
       }
     ],
     "skills": [
+      {
+        "name": "Programming",
+        "level": "",
+        "keywords": [
+          "Kotlin",
+          "Java",
+          "Python",
+          "JavaScript",
+          "SQL",
+          "HTML",
+          "CSS",
+          "Android"
+        ]
+      },
       {
         "name": "Agile Methodologies",
         "level": "",
@@ -128,33 +151,14 @@
         ]
       },
       {
-        "name": "Programming",
+        "name": "Frameworks and Technologies",
         "level": "",
         "keywords": [
-          "Kotlin",
-          "Java",
-          "Python",
-          "JavaScript",
-          "SQL"
-        ]
-      },
-      {
-        "name": "Web APIs",
-        "level": "",
-        "keywords": [
-          "REST",
-          "JSON",
-          "XML",
-          "HTTP"
-        ]
-      },
-      {
-        "name": "CI/CD",
-        "level": "",
-        "keywords": [
-          "Jenkins",
-          "Gradle",
-          "Terraform"
+          "Apache Spark",
+          "Splinter (Selenium)",
+          "Spring",
+          "Spring Boot",
+          "jOOQ"
         ]
       },
       {
@@ -181,12 +185,18 @@
       "title": "First prize in ShiftKey labs hackathon",
       "awarder": "ShiftKey Labs"
     }, {
-      "title": "Rank 1 in class of 70 students in undergraduation.",
+      "title": "Graduated with Rank 1 in class of 70 students.",
       "awarder": "DAV Institute of Engineering & Technology"
     }, {
       "title": "First Google Student Ambassador of my institute 2013-14",
       "awarder": "Google India Pvt. Ltd."
-    }],
+    }, {
+      "title": "Oracle Certified Associate, Java SE 8 Programmer",
+      "awarder": "Oracle"
+  }, {
+    "title": "Rank 3 in in school in Sr. Secondary Examination and Scholarship from Central Government of India",
+    "awarder": "Shri Mahavir Jain Model Sr. Sec. School"
+  }],
     "interests": [{
       "name": "Cricket"
     }, {
