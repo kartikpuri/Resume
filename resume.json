@@ -5,7 +5,7 @@
       "picture": "kartik-profile.png",
       "email": "kartik.puri@dal.ca",
       "phone": "902-817-0150",
-      "summary": "I am an experienced, full-stack software developer who enjoys taking on challenging projects and learning new things. \n\n Status - Permanent Resident",
+      "summary": "I am an experienced, full-stack software developer who enjoys taking on challenging projects and learning new things. I am looking for new challenges where I can learn new technologies and contribute to the success of the company. \n\n Status - Permanent Resident",
       "location": {
         "city": "Moncton",
         "countryCode": "Canada",
@@ -127,11 +127,16 @@
         ]
       },
       {
-        "name": "Agile Methodologies",
+        "name": "Web Technologies",
         "level": "",
         "keywords": [
-          "Kanban",
-          "Scrum"
+          "Vue.js",
+          "Vuetify",
+          "Vert.x",
+          "Spring",
+          "Spring Boot",
+          "REST",
+          "JSON"
         ]
       },
       {
@@ -141,7 +146,6 @@
           "VPC Networking",
           "EC2",
           "S3",
-          "Route53",
           "RDS",
           "Lambda",
           "CloudWatch",
@@ -150,13 +154,11 @@
         ]
       },
       {
-        "name": "Frameworks and Technologies",
+        "name": "Frameworks",
         "level": "",
         "keywords": [
           "Apache Spark",
           "Splinter (Selenium)",
-          "Spring",
-          "Spring Boot",
           "jOOQ"
         ]
       },
@@ -164,9 +166,14 @@
         "name": "Developer Tools",
         "level": "",
         "keywords": [
+          "Git",
+          "Trello",
+          "IntelliJ",
+          "Eclipse",
+          "VSCode",
+          "VirtualBox",
           "GitHub",
-          "BitBucket",
-          "Trello"
+          "BitBucket"
         ]
       },
       {
